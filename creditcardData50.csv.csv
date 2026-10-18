@@ -1,7 +1,7 @@
 Customer_ID,Year,Age_Group,Gender,Education_Level,Income_Category,Card_Category,Total_Trans_Amt,Total_Trans_Ct,Customer_Status
 C001,2021,26-35,Female,Graduate,Less than $40K,Blue,789,10,Attrited Customer
 C002,2021,56-65,Male,College,$80K-$120K,Platinum,1817,23,Existing Customer
-C003,2021,36-45,Female,High School,$40K-$60K,Gold,2064,112,Existing Customer
+C003,2021,36-45,Female,High School,$40K-$60K,Gold,2064,112,Attrited Customer
 C004,2021,18-25,Male,Post-Graduate,$120+,Silver,2651,45,Existing Customer
 C005,2021,46-55,Female,Unknown,$60K-$80K,Blue,3708,56,Existing Customer
 C006,2021,26-35,Male,Graduate,Less than $40K,Platinum,3885,67,Existing Customer
@@ -10,7 +10,7 @@ C008,2021,36-45,Male,High School,$40K-$60K,Silver,5119,89,Existing Customer
 C009,2021,18-25,Female,Post-Graduate,$120+,Blue,5736,100,Existing Customer
 C010,2021,46-55,Male,Unknown,$60K-$80K,Platinum,9873,111,Existing Customer
 C011,2021,26-35,Female,Graduate,Less than $40K,Gold,6970,22,Existing Customer
-C012,2021,56-65,Male,College,$80K-$120K,Silver,7587,33,Existing Customer
+C012,2021,56-65,Male,College,$80K-$120K,Silver,7587,33,Attrited Customer
 C013,2021,36-45,Female,High School,$40K-$60K,Blue,3204,44,Attrited Customer
 C014,2021,18-25,Male,Post-Graduate,$120+,Platinum,8821,55,Existing Customer
 C015,2021,46-55,Female,Unknown,$60K-$80K,Gold,9788,66,Existing Customer
@@ -21,31 +21,31 @@ C019,2021,18-25,Female,Post-Graduate,$120+,Gold,11906,110,Attrited Customer
 C020,2021,46-55,Male,Unknown,$60K-$80K,Silver,19523,21,Existing Customer
 C021,2021,26-35,Female,Graduate,Less than $40K,Blue,13740,32,Existing Customer
 C022,2021,56-65,Male,College,$80K-$120K,Platinum,15857,89,Existing Customer
-C023,2021,36-45,Female,High School,$40K-$60K,Gold,14784,54,Existing Customer
-C024,2021,18-25,Male,Post-Graduate,$120+,Silver,14991,65,Existing Customer
+C023,2021,36-45,Female,High School,$40K-$50K,Gold,14784,54,Existing Customer
+C024,2021,18-25,Male,High School,$100+,Silver,14991,65,Existing Customer
 C025,2021,46-55,Female,Unknown,$60K-$80K,Blue,18908,66,Attrited Customer
 C026,2022,26-35,Male,Graduate,Less than $40K,Platinum,1225,87,Existing Customer
 C027,2022,56-65,Female,College,$80K-$120K,Gold,6742,98,Existing Customer
 C028,2022,36-45,Male,High School,$40K-$60K,Silver,2459,109,Existing Customer
 C029,2022,18-25,Female,Post-Graduate,$120+,Blue,7876,20,Existing Customer
-C030,2022,46-55,Male,Unknown,$60K-$80K,Platinum,3693,31,Existing Customer
+C030,2022,46-55,Male,Unknown,$60K-$80K,Blue,3693,31,Existing Customer
 C031,2022,26-35,Female,Graduate,Less than $40K,Gold,7310,42,Attrited Customer
-C032,2022,56-65,Male,College,$80K-$120K,Silver,4927,53,Existing Customer
+C032,2022,56-65,Male,Unknown,$80K-$120K,Silver,4927,53,Existing Customer
 C033,2022,36-45,Female,High School,$40K-$60K,Blue,5544,64,Existing Customer
 C034,2022,18-25,Male,Post-Graduate,$120+,Platinum,6161,75,Existing Customer
 C035,2022,46-55,Female,Unknown,$60K-$80K,Gold,6778,86,Existing Customer
 C036,2022,26-35,Male,Graduate,Less than $40K,Silver,7395,97,Existing Customer
 C037,2022,56-65,Female,College,$80K-$120K,Blue,8012,208,Attrited Customer
-C038,2022,36-45,Male,High School,$40K-$60K,Platinum,8629,19,Existing Customer
-C039,2022,18-25,Female,Post-Graduate,$120+,Gold,9246,30,Existing Customer
+C038,2022,36-45,Male,High School,$40K-$60K,Silver,8629,19,Existing Customer
+C039,2022,18-25,Female,Post-Graduate,$150+,Platinum,9246,30,Existing Customer
 C040,2022,46-55,Male,Unknown,$60K-$80K,Silver,26763,41,Existing Customer
-C041,2022,26-35,Female,Graduate,Less than $40K,Blue,10480,42,Existing Customer
+C041,2022,26-35,Female,Graduate,Less than $40K,Blue,10480,42,Attrited Customer
 C042,2022,56-65,Male,College,$80K-$120K,Platinum,11097,63,Existing Customer
 C043,2022,36-45,Female,High School,$40K-$60K,Gold,714,74,Attrited Customer
-C044,2022,18-25,Male,Post-Graduate,$120+,Silver,12331,85,Existing Customer
+C044,2022,18-25,Male,Post-Graduate,$200+,Silver,12331,85,Existing Customer
 C045,2022,46-55,Female,Unknown,$60K-$80K,Blue,12458,96,Existing Customer
 C046,2022,26-35,Male,Graduate,Less than $40K,Platinum,1365,107,Existing Customer
-C047,2022,56-65,Female,College,$80K-$120K,Gold,14182,38,Existing Customer
+C047,2022,56-65,Female,College,$80K-$120K,Platinum,14182,38,Existing Customer
 C048,2022,36-45,Male,High School,$40K-$60K,Silver,10099,29,Existing Customer
 C049,2022,18-25,Female,Post-Graduate,$120+,Blue,15416,120,Attrited Customer
-C050,2022,46-55,Male,Unknown,$60K-$80K,Platinum,9933,51,Existing Customer
+C050,2022,46-55,Male,Unknown,$60K-$180K,Platinum,9933,51,Existing Customer
